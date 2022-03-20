@@ -1,7 +1,7 @@
 # LowBrowser
 Browser hecho en 2021 a finales. Fue solo una prueba y terminó gustandome tanto que quise compartirlo.
 
-# Installation - Use
+# Installation - Usage
 - pip install PyQt5
 - pip install PyQtWebEngine
 - pip install sip --upgrade
